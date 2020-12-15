@@ -1,5 +1,10 @@
 /* Put your custom styles here and run `npm start` from the "src" directory on */
 
+#big-header {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+}
+
 #TableOfContents ul li {
   margin-bottom: 1em;
 }
